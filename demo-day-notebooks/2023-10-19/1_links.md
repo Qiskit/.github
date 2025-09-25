@@ -1,2 +1,0 @@
-- https://qiskit-extensions.github.io/circuit-knitting-toolbox/circuit_cutting/tutorials/03_wire_cutting_via_move_instruction.html
-- https://qiskit-extensions.github.io/circuit-knitting-toolbox/circuit_cutting/how-tos/how_to_specify_cut_wires.html
