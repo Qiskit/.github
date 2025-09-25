@@ -3,8 +3,8 @@
 
 <p align="center">Qiskit is the world’s <b>most popular and performant</b>b software stack for quantum computing and algorithms research</p>
 <p align="center"><a href="https://www.ibm.com/quantum/qiskit" align="center">www.ibm.com/quantum/qiskit</a></p>
-
 </p>
+
 
 It is maintained by IBM Quantum and great community of quantum enthusiast 💜
 
