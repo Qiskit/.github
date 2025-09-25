@@ -6,9 +6,10 @@
 </p>
 
 
-It is maintained by IBM Quantum and great community of quantum enthusiast 💜
+It is maintained by [IBM Quantum](https://www.ibm.com/quantum) and great community of quantum enthusiast 💜
 
  * [Read more about how Qiskit is organized](https://quantum.cloud.ibm.com/docs/en/guides)
- * [Explore ways that the Qiskit community extend Qiskit](https://www.ibm.com/quantum/qiskit#ecosystem).
+ * [Explore ways that the Qiskit community extend Qiskit](https://www.ibm.com/quantum/qiskit#ecosystem)
  * [Learn quantum computing](https://quantum.cloud.ibm.com/learning/)
  * [Find ways to get involved in the Qiskit community](https://www.ibm.com/quantum/qiskit#get-involved)
+ * [Get the latest updates about Qiskit](https://www.ibm.com/quantum/qiskit#latest-updates)
