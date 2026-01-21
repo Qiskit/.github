@@ -1,5 +1,6 @@
 <p align="center" style="margin-bottom: 0px !important;">
-    <img src="https://repository-images.githubusercontent.com/83821669/9207357a-cf9b-45ed-9974-0abc3df14b95" align="center" />
+
+<img width="1400" height="568" alt="Qiskit_logo_with_text" src="https://github.com/user-attachments/assets/5d37e5f6-fcc4-47f8-9a19-c3b7df2808d4" align="center"/>
 
 <p align="center">Qiskit is the world’s <b>most popular and performant</b> software stack for quantum computing and algorithms research</p>
 <p align="center"><a href="https://www.ibm.com/quantum/qiskit" align="center">www.ibm.com/quantum/qiskit</a></p>
